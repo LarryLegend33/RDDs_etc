@@ -1,0 +1,19 @@
+#+TITLE: Zebrafish RDD
+#+AUTHOR: Andrew-D-Bolton
+#+EMAIL: abolton@mit.edu
+
+
+* Contributions
+** A solution to a fundamental problem in neuroscience: how do brains enact inferences about the physical world? The zebrafish model system allows us to observe brains as fish fictively navigate a virtual environment. However, until now, the programs fish are enacting have been unknown / unstudied and the virtual reality used in fish is inaccurate. This RDD seeks to address the macro, meso, and microscale predictions of Sequential Neural Monte Carlo  in the larval zebrafish. 
+***  A novel virtual reality environment based on Nonparametric Bayesian Modeling.
+***  A voltage imaging setup where candidate circuits can emerge from low-speed imaging, but high imaging speeds can be focused on small regions of interest for hypothesis testing.
+*** A depth electrode electrophysiology setup to test hypothesis about columnar computation in the optic tectum. This is especially relevant for SNMC testing because activity in lower levels of a microcolumn should be in lockstep with assembly and WTA activity in upper levels.
+*** A patch clamp electrophysiolgy setup to test hypothesis about LFP phase locking and synaptic spike counting.
+
+
+* Claims
+** Zebrafish larvae are a valuable model organism in which to study SNMC because 1) zebrafish have small accessible brains and 2) we have recently shown that zebrafish infer object locations, which can be thought of as Bayesian physical reasoning. 
+*** Zebrafish infer the distance to their prey and obstacles in their environment. We suggest that fish may also be able to do Multiple Object Tracking (MOT)
+*** Zebrafish have the smallest and most accessible brain of any vertebrate model organism; however, the fish brain contains many of the brain regions we suggest are involved in SNMC.
+*** 
+
